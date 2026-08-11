@@ -216,4 +216,4 @@ This separation allows the same controller logic to run on both **Express** and 
 
 ## 📜 License
 
-ISC
+MIT — see [LICENSE](./LICENSE) for details.
